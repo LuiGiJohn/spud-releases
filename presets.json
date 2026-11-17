@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "minAppVersion": "0.2.31",
- "appVersion": "0.2.31",
+ "minAppVersion": "0.2.32",
+ "appVersion": "0.2.32",
  "presets": [
   {
    "id": "builtin-soft-glow",
